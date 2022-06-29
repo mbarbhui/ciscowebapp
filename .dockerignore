@@ -1,3 +1,5 @@
-html-sample-app/.git
-html-sample-app/LICENSE.txt
-html-sample-app/README.txt
+Dockerfile
+.dockerignore
+.git
+*.md
+LICENSE
